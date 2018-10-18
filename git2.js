@@ -1,5 +1,1 @@
-function greet(name)
-{
-    console.log("hello "+name)
-}
-greet("Parikshit")
+console.log("use git status for status")
